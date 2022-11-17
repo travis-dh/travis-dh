@@ -1,15 +1,36 @@
-<!-- ### Hi there 👋
+# Hello There! 👋
+I'm Travis, and thanks for stopping by my GitHub. I'm a Physics senior at Texas Tech University interested in computational physics and materials informatics. I have a little experience doing data science stuff, but still have plenty of room to grow and learn!
 
-**niminuko/niminuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Strong Skills
+<p align="center">
+  &emsp;
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic">
+  &emsp;
+    <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=plastic">
+  &emsp;
+    <img alt="Linux" src="https://img.shields.io/badge/-GNU/Linux-FCC624?logo=linux&logoColor=black&style=plastic">
+  &emsp;
+    <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic">
+  &emsp;
+    <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=plastic">
+  &emsp;
+    <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=plastic">
+</a>
+</p>
 
-Here are some ideas to get you started:
+### 🎓 Currently Learning
+<p align="center"> 
+  &emsp; 
+    <img alt="DWave" src="https://img.shields.io/badge/-D.Wave-008CD7?logo=dwavesystems&logoColor=white&style=plastic">
+  &emsp;
+    <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=plastic">
+  &emsp;
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic">
+  &emsp;
+    <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=plastic">
+  &emsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📬 Contact
+Feel free to reach me at `travishoward@proton.me`.
