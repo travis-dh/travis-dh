@@ -34,3 +34,9 @@ I'm Travis, and thanks for stopping by my GitHub. I'm a Physics senior at Texas 
 
 ### 📬 Contact
 Feel free to reach me at `travishoward@proton.me`.
+
+#
+
+<p align="center">
+  <img alt="Metrics" src="/github-metrics.svg">
+</p>
