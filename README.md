@@ -1,5 +1,5 @@
 # Hello There! 👋
-I'm Travis, and thanks for stopping by my GitHub. I'm a Physics senior at Texas Tech University interested in computational physics and materials informatics. I have a little experience doing data science stuff, but still have plenty of room to grow and learn!
+I'm Travis, and thanks for stopping by my GitHub. I hold a Physics BS from Texas Tech University and I'm interested in computational physics and materials informatics. I have some experience doing data science stuff, but still have plenty of room to grow and learn!
 
 ### 🛠️ Strong Skills
 <p align="center">
